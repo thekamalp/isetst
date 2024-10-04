@@ -1,0 +1,11 @@
+/bin
+/build
+/build32
+/.vs/isetst/v16/Browse.VC.db
+/.vs/isetst/v16/Browse.VC.db-shm
+/.vs/isetst/v16/Browse.VC.db-wal
+/.vs/isetst/v16/Browse.VC.opendb
+/.vs/ProjectSettings.json
+/.vs/slnx.sqlite
+/assets/_GENMIDI.op2
+/assets/desktop.ini
